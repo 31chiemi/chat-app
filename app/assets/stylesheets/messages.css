@@ -22,6 +22,7 @@
 .header-name a {
   font-size: 16px;
   color: #FAFAFA;
+  text-decoration: none;
 }
 
 .create-room a {
@@ -29,6 +30,7 @@
   border: 1px solid lightblue;
   padding: 14px;
   color:deepskyblue;
+  text-decoration: none;
 }
 
 
